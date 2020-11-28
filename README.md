@@ -1,2 +1,0 @@
-# sdpyr.github.io
-Website
